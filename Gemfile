@@ -19,7 +19,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'faker'
 gem 'kaminari'
 gem 'devise'
-
+gem 'simple_hashtag'
+gem 'activeadmin'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
